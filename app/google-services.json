@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "970138971173",
+    "firebase_url": "https://lot-firebase-demo.firebaseio.com",
+    "project_id": "lot-firebase-demo",
+    "storage_bucket": "lot-firebase-demo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:970138971173:android:345b4382ec09d4a3",
+        "android_client_info": {
+          "package_name": "com.loneoaktech.test.firebasedemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "970138971173-kqga3cs3m8her9rflkqjqc6os6tavtli.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6Y-atjOM7MKn2R_XaoWW6jTWiOcWiTAE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "970138971173-kqga3cs3m8her9rflkqjqc6os6tavtli.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
