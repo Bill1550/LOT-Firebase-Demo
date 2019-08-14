@@ -6,10 +6,12 @@ import timber.log.Timber
 
 class LotMessagingService : FirebaseMessagingService() {
 
-    override fun onMessageReceived(p0: RemoteMessage?) {
-        super.onMessageReceived(p0)
+    override fun onMessageReceived(remoteMessage: RemoteMessage?) {
+        super.onMessageReceived(remoteMessage)
 
-        Timber.i("Message received: $p0")
+
+
+        Timber.i("Message received. data=${remoteMessage?.data}")
     }
 
 }
